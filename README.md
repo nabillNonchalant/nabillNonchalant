@@ -10,9 +10,9 @@
 
 <div align="center">
   ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
-![HTML](https://img.shields.io/badge/HTML-orange?logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?logo=css3)
-![PHP](https://img.shields.io/badge/PHP-purple?logo=php)
+  ![HTML](https://img.shields.io/badge/HTML-orange?logo=html5)
+  ![CSS](https://img.shields.io/badge/CSS-blue?logo=css3)
+  ![PHP](https://img.shields.io/badge/PHP-purple?logo=php)
 </div> 
 
 
