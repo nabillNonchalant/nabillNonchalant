@@ -2,7 +2,7 @@
 
 💻 Back-End Web Developer  
 🎨 UI/UX Designer  
-🎮 Gamers
+🎮 Gamer
 
 ---
 
