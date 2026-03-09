@@ -19,4 +19,4 @@
 ---
 
 ## 🔥 Contribution
-![graph](https://github-readme-activity-graph.vercel.app/graph?username=nabillNonchalant&theme=react-dark)
+![snake](https://github.com/bagashidayat07/nabillNonchalant/blob/output/github-contribution-grid-snake.svg)
