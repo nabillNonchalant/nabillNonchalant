@@ -1,8 +1,8 @@
 # Hi there 👋 I'm Nabil
 
-💻 Front-End Web Developer  
+💻 Back-End Web Developer  
 🎨 UI/UX Designer  
-📷 Content Creator  
+🎮 Gamers
 
 ---
 
