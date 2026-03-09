@@ -8,11 +8,12 @@
 
 <h4 align="center">## 🚀 Skills </h4>
 
-  ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
-  ![HTML](https://img.shields.io/badge/HTML-orange?logo=html5)
-  ![CSS](https://img.shields.io/badge/CSS-blue?logo=css3)
-  ![PHP](https://img.shields.io/badge/PHP-purple?logo=php)
-
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript">
+  <img src="https://img.shields.io/badge/HTML-orange?logo=html5">
+  <img src="https://img.shields.io/badge/CSS-blue?logo=css3">
+  <img src="https://img.shields.io/badge/PHP-purple?logo=php">
+</p>
 ---
 
 <div align="center">
