@@ -25,4 +25,6 @@
 
 <h4 align="center">## 🔥 Contribution<h4/>
   
-![snake](https://github.com/nabillNonchalant/nabillNonchalant/blob/output/github-contribution-grid-snake-dark.svg)
+<div align="center">
+  <img src="https://github.com/nabillNonchalant/nabillNonchalant/blob/output/github-contribution-grid-snake-dark.svg"/>
+</div>
