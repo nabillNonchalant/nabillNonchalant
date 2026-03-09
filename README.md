@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Bagas
+# Hi there 👋 I'm Nabil
 
 💻 Front-End Web Developer  
 🎨 UI/UX Designer  
@@ -15,9 +15,9 @@
 ---
 
 ## 📊 GitHub Stats
-![stats](https://github-readme-stats.vercel.app/api?username=bagashidayat07&show_icons=true&theme=radical)
+![stats](https://github-readme-stats.vercel.app/api?username=nabilNonchalant&show_icons=true&theme=radical)
 
 ---
 
 ## 🔥 Contribution
-![graph](https://github-readme-activity-graph.vercel.app/graph?username=bagashidayat07&theme=react-dark)
+![graph](https://github-readme-activity-graph.vercel.app/graph?username=nabillNonchalant&theme=react-dark)
