@@ -6,7 +6,7 @@
 
 ---
 
-<h4 align="center">## 🚀 Skills </h4>
+<h4 align="center"># 🚀 Skills </h4>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript">
@@ -23,7 +23,7 @@
 
 ---
 
-<h4 align="center">## 🔥 Contribution<h4/>
+<h4 align="center">#🔥 Contribution<h4/>
   
 <div align="center">
   <img src="https://github.com/nabillNonchalant/nabillNonchalant/blob/output/github-contribution-grid-snake-dark.svg"/>
